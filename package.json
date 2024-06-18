@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "json-server": "^1.0.0-beta.1"
+  },
+  "name": "requisicoes-js",
+  "description": "<p align=\"center\"> <img src=\"https://imgur.com/J3hD21O.png\" alt=\"Javascript: criando requisições\"> </p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
